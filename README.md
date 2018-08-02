@@ -6,6 +6,7 @@
 
 #### Permissions:
 > `WRITE_EXTERNAL STORAGE`
+
 (Enabling this permission WON'T allow EMDb to read the contents on the device storage)
 
 ##### Download APK (2.7 Mb): [EMDb.apk](https://drive.google.com/uc?authuser=0&id=1KqB7-0cSQHnomh_iZqwFVJ1hiXEzg66j&export=download)
