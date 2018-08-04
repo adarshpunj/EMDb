@@ -5,7 +5,7 @@
 ![emdb_screenshots 001](https://user-images.githubusercontent.com/30762976/43616589-015b81e8-96db-11e8-9c9b-9e2be743819e.png)
 
 #### Permissions:
-> `WRITE_EXTERNAL STORAGE`
+> `WRITE_EXTERNAL_STORAGE`
 
 (Enabling this permission WON'T allow EMDb to read the contents on the device storage)
 
