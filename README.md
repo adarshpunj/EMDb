@@ -1,4 +1,4 @@
-# EMDb
+# EMDb - Evil Movie Database
 ### Download movies with a single tap!
 ##### The app scraps the internet to find the right link, and makes it easy to download movies.
 
