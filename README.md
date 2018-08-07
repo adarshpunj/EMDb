@@ -8,4 +8,4 @@
 > `WRITE_EXTERNAL_STORAGE`
 ##### The app only makes the use of this permission to write the .mp4 files to device's storage.
 
-##### Download APK (2.7 Mb): [EMDb.apk](https://drive.google.com/uc?authuser=0&id=1kRJ6lAXSpDFomfgtXnsk20wljrH0DDYw&export=download)
+##### Download APK (2.7 Mb): [EMDb.apk](https://drive.google.com/uc?authuser=0&id=13TboaDHizghE9Y5MjTbtcHxx_yP0vNtw&export=download)
