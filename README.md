@@ -1,4 +1,5 @@
 # EMDb - Evil Movie Database
+###### Easy, fast, and secure.
 ### Download movies with a single tap!
 ##### The app scraps the internet to find the right link, and makes it easy to download movies.
 
