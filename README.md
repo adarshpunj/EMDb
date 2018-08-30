@@ -1,4 +1,9 @@
 # EMDb - Evil Movie Database
+
+```diff
+- The app is unable to fetch download links as the server has been taken down.
+```
+
 ### Download movies with a single tap!
 ###### Fast, secure, and easy.
 ##### The app scraps the internet to find the right link, and makes it easy to download movies.
