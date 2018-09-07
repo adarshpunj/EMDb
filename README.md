@@ -1,6 +1,7 @@
 # EMDb - Evil Movie Database
 
 ```diff
+TEMPORARY ERROR:
 - The app is unable to fetch download links as the server has been taken down.
 ```
 ### Download movies with a single tap!
