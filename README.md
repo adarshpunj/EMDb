@@ -13,3 +13,6 @@
 ##### Download APK (2.7 Mb): [EMDb.apk](https://drive.google.com/uc?authuser=0&id=13TboaDHizghE9Y5MjTbtcHxx_yP0vNtw&export=download)
 
 ###### Please note that EMDb is dependent on third party websites (where the files are originally uploaded). You might not be able to download movies in case those websites are down. Also, the app is not involved in piracy in any way.
+
+---
+##### Languages used: Java, Python
