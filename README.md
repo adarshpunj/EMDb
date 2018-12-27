@@ -4,8 +4,6 @@
 ###### Fast, secure, and easy.
 ##### The app scraps the internet to find the right link, and makes it easy to download movies.
 
-##### The source code will be uploaded soon.
-
 ![emdb_screenshots 001](https://user-images.githubusercontent.com/30762976/43616589-015b81e8-96db-11e8-9c9b-9e2be743819e.png)
 
 #### Permissions:
