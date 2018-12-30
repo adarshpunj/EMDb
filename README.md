@@ -1,7 +1,7 @@
 # EMDb - Evil Movie Database
 
-```red
-The code is no longer supported. The app would still work.
+```diff
+- The code is no longer supported. The app would still work.
 ```
 
 ### Download movies with a single tap!
