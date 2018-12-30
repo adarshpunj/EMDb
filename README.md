@@ -1,5 +1,9 @@
 # EMDb - Evil Movie Database
 
+```ruby
+The code is no longer supported. The app would still work.
+```
+
 ### Download movies with a single tap!
 ###### Fast, secure, and easy.
 ##### The app scraps the internet to find the right link, and makes it easy to download movies.
