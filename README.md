@@ -1,6 +1,6 @@
 # EMDb - Evil Movie Database
 
-```ruby
+```red
 The code is no longer supported. The app would still work.
 ```
 
